@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE "heroe" ALTER COLUMN "name" DROP NOT NULL,
+ALTER COLUMN "createdAt" DROP NOT NULL;

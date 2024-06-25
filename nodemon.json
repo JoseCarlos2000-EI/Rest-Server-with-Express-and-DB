@@ -1,0 +1,6 @@
+{
+    "ext": ".js,.ts",
+    "exec": "npx tsnd --clear --respawn ./src/app.ts",
+    "watch": "src/",
+    "ignore": []
+}
